@@ -1,6 +1,6 @@
 Pacman Game 🎮
 
-This project features a classic Pacman game developed in Python using the pygame library. Your mission: navigate Pacman through a maze to collect food, avoid walls, and rack up points!
+This project features a classic Pacman game developed in Python using the pygame library and backtracking data structure concept. Your mission: navigate Pacman through a maze to collect food, avoid walls, and rack up points!
 
 Features 🌟
 - Maze Generation: Dynamic maze consisting of randomly placed walls and food items.
