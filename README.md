@@ -24,8 +24,8 @@ How to Run 🚀
 
  ```bash
 pip install pygame
-- Run the game: Execute the Python file:
 ```
+- Run the game: Execute the Python file:
 ```bash
 python pacman_game.py
 ```
